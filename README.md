@@ -15,7 +15,7 @@ I have experience working as a data analyst and a data scientist. My responsibil
 
 ## 🧐 Interests
 
-As a data analyst and aspiring data scientist, I'm actively engaged in self-study and research on the following topics:
+As a data analyst, I'm actively engaged in self-study and research on the following topics:
 
 - Predictive modeling and forecasting
 - Natural language processing
